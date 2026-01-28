@@ -1,2 +1,2 @@
 def feature_b():
-    return "Feature B v1"
+    return "Feature B v2 - updated by friend"
